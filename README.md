@@ -3,9 +3,9 @@
 
 <img align = "right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/006/873/361/large_2x/programmer-working-on-web-development-on-computer-concept-vector.jpg">
 
-- 🔭 I’m currently working on [Health Care App](https://github.com/nashdabre/HealthCare-App.git)
+- 🔭 I’m currently working on [Portfolio](https://github.com/nashdabre/Nash_Portfolio.git)
 
-- 🌱 I’m currently learning **Flask, MySQL, Java**
+- 🌱 I’m currently learning **React.js,Node.js,REST API**
 
 - 👯 I’m looking to collaborate on **Android and Frontend related Projects**
 
