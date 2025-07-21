@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android, Java**
 
-- 📫 How to reach me **nashdabre2@gmail.comm**
+- 📫 How to reach me **nashdabrework@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkj8I8VsVNGjR064sXPbYyGT5ENFD9aV/view?usp=sharing)
 
