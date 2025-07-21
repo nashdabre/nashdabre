@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nashdabre2@gmail.comm**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFlKa2XAaA/NQuCLBKRmhUYqKeJfsfYqg/edit?utm_content=DAFlKa2XAaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFlKa2XAaA/NQuCLBKRmhUYqKeJfsfYqg/edit?utm_content=DAFlKa2XAaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkj8I8VsVNGjR064sXPbYyGT5ENFD9aV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
